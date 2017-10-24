@@ -1,0 +1,3 @@
+rootProject.name = 'sistema_de_quadras'
+
+include ':app'
