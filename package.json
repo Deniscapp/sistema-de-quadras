@@ -7,8 +7,22 @@
 		"test": "jest"
 	},
 	"dependencies": {
+		"firebase": "^4.6.2",
+		"moment": "^2.19.3",
+		"native-base": "^2.3.3",
 		"react": "16.0.0-beta.5",
-		"react-native": "0.49.3"
+		"react-native": "0.49.3",
+		"react-native-add-calendar-event": "^0.3.0",
+		"react-native-calendar-events": "^1.4.3",
+		"react-native-calendars": "^1.9.3",
+		"react-native-linear-gradient": "^2.3.0",
+		"react-native-router-flux": "^4.0.0-beta.22",
+		"react-native-snap-carousel": "^3.4.0",
+		"react-native-vector-icons": "^4.4.2",
+		"react-redux": "^5.0.6",
+		"redux": "^3.7.2",
+		"redux-thunk": "^2.2.0",
+		"uuid": "^3.1.0"
 	},
 	"devDependencies": {
 		"babel-jest": "21.2.0",

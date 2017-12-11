@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Soccerball</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-614.000000, -718.000000)" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Soccerball" transform="translate(617.000000, 717.000000)" sketch:type="MSShapeGroup">
+                <circle id="Oval-858" cx="27" cy="31" r="27"></circle>
+                <polygon id="Polygon-10" points="27.5 21.5265921 36.977207 28.0725559 33.3572361 38.664148 21.6427639 38.664148 18.022793 28.0725559 "></polygon>
+                <path d="M5.68506108,15.5419154 C6.76154408,15.6385705 8.91451009,15.8318809 8.91451009,15.8318809 L10.6974578,25.3286585 L2.44695177,30.3582547 L0.195226878,28.2680709" id="Polygon-10"></path>
+                <path d="M28.2349036,0.612339493 C29.3113866,0.708994671 31.4643526,0.902305027 31.4643526,0.902305027 L33.2473004,10.3990827 L24.9967943,15.4286789 L22.7450694,13.338495" id="Polygon-10" transform="translate(28.000000, 7.996883) rotate(66.000000) translate(-28.000000, -7.996883) "></path>
+                <path d="M48.7847462,15.5419154 C49.8612292,15.6385705 52.0141952,15.8318809 52.0141952,15.8318809 L53.7971429,25.3286585 L45.5466369,30.3582547 L43.294912,28.2680709" id="Polygon-10" transform="translate(48.549843, 22.926459) scale(-1, 1) translate(-48.549843, -22.926459) "></path>
+                <path d="M43.2349036,39.7751436 C44.3113866,39.8717988 46.4643526,40.0651092 46.4643526,40.0651092 L48.2473004,49.5618868 L39.9967943,54.591483 L37.7450694,52.5012992" id="Polygon-10" transform="translate(43.000000, 47.159687) scale(-1, 1) rotate(-69.000000) translate(-43.000000, -47.159687) "></path>
+                <path d="M10.7917848,39.7751436 C11.8682678,39.8717988 14.0212338,40.0651092 14.0212338,40.0651092 L15.8041815,49.5618868 L7.55367547,54.591483 L5.30195058,52.5012992" id="Polygon-10" transform="translate(10.556881, 47.159687) rotate(-69.000000) translate(-10.556881, -47.159687) "></path>
+                <path d="M18.38101,28.0366183 L10.6124598,25.5322473" id="Path-2042"></path>
+                <path d="M27.6965256,21.7402243 L27.6965256,13.7376167" id="Path-2043"></path>
+                <path d="M21.6109161,38.4029616 L14.437607,43.5154137" id="Path-2044"></path>
+                <path d="M33.3531818,38.3844302 L39.1114668,43.3345251" id="Path-2045"></path>
+                <path d="M37.1145016,28.0411464 L43.4550043,25.3272653" id="Path-2046"></path>
+            </g>
+        </g>
+    </g>
+</svg>
